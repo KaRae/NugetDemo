@@ -8,3 +8,5 @@
 /.vs/ProjectSettings.json
 /Framework/MyLib/.vs/MyLib/v16/Server/sqlite3
 /Framework/MyLib/MyLib/obj/Debug
+/Consumer/Consumer/.vs/Consumer/v16/Server/sqlite3
+/Consumer/Consumer/Consumer/obj/Debug
