@@ -10,3 +10,7 @@
 /Framework/MyLib/MyLib/obj/Debug
 /Consumer/Consumer/.vs/Consumer/v16/Server/sqlite3
 /Consumer/Consumer/Consumer/obj/Debug
+/Framework/MyLib/MyLib/bin/Debug/MyLib.pdb
+/Framework/MyLib/MyLib/bin/Debug
+/Framework/MyLib/MyLib/obj/Release
+/Framework/MyLib/MyLib/bin/Release
