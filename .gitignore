@@ -17,3 +17,5 @@
 /Nuget/Packages/MyLib.1.0.0.nupkg
 /Nuget/Packages/MyLib.1.0.0-pre.snupkg
 /Nuget/Packages/MyLib.1.0.0-pre.nupkg
+/Consumer/Consumer/Consumer/bin/Debug
+/Consumer/Consumer/packages/MyLib.1.0.0
