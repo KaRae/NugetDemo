@@ -14,3 +14,6 @@
 /Framework/MyLib/MyLib/bin/Debug
 /Framework/MyLib/MyLib/obj/Release
 /Framework/MyLib/MyLib/bin/Release
+/Nuget/Packages/MyLib.1.0.0.nupkg
+/Nuget/Packages/MyLib.1.0.0-pre.snupkg
+/Nuget/Packages/MyLib.1.0.0-pre.nupkg

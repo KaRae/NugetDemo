@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>MyLib</id>
+    <version>1.0.0-pre</version>
+    <title>My Library</title>
+    <authors>karae</authors>
+    <owners></owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple library to politely greet people.</description>
+  </metadata>
+  <files>
+    <file src="..\Framework\MyLib\MyLib\bin\Debug\*.*" target="lib\net\" />
+  </files>
+</package>
