@@ -3,3 +3,8 @@
 ################################################################################
 
 *.suo
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/ProjectSettings.json
+/Framework/MyLib/.vs/MyLib/v16/Server/sqlite3
+/Framework/MyLib/MyLib/obj/Debug
