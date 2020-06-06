@@ -25,5 +25,5 @@ See https://docs.microsoft.com/en-us/nuget/create-packages/symbol-packages-snupk
 
 ## Cleanup
 1. In VS, open package sources, remove your custom source
-2. Enable all sources you might have to disable
+2. Enable all sources you might had to disable earlier
 3. Close VS and delete the NugetDemo-master directory
